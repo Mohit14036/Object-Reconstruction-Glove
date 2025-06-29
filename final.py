@@ -6,7 +6,7 @@ import numpy as np
 import socket
 import json
 
-BLENDER_HOST="192.168.30.158"
+BLENDER_HOST="XXX.XX.XXX.XXX" #Replace with your Blender server IP
 BLENDER_PORT=9999
 
 
